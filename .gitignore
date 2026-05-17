@@ -5,6 +5,7 @@
 *.sw[mnpcod]
 *.log
 *.tmp
+*.angular
 *.tmp.*
 log.txt
 *.sublime-project
@@ -32,3 +33,4 @@ $RECYCLE.BIN/
 .DS_Store
 Thumbs.db
 UserInterfaceState.xcuserstate
+.angular/cache/21.2.11/babel-webpack/ffc91199942376e9.json
